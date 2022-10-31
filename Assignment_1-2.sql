@@ -85,4 +85,5 @@ mysql> insert into student1(Name,Mobile_No,Salary) values("Akshay",979564,30000)
 ERROR 3819 (HY000): Check constraint 'MyUniqueConstraint' is violated.
 mysql> exit
 Bye
+
 C:\Program Files\MySQL\MySQL Server 8.0\bin>
