@@ -35,6 +35,7 @@ mysql> show databases;
 
 mysql> use ass2
 Database changed
+
 mysql> show tables;
 +----------------+
 | Tables_in_ass2 |
