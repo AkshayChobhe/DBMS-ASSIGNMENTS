@@ -41,5 +41,5 @@ DECLARE
   dbms_output.put_line(roll_number || 'Not Found');
   END;
   /
-  select * from Borrower;
-  select * from Fine;
+  SELECT * from Borrower;
+  SELECT * from Fine;
